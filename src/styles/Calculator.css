@@ -1,0 +1,33 @@
+.c9k {
+    width: fit-content;
+    height: auto;
+    margin: 50px auto;
+    text-align: center;
+    font-family: Consolas;
+}
+
+.c9k-btn-panel {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.c9k-btn-row {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+table.history {
+    width: 70%;
+    height: auto;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}

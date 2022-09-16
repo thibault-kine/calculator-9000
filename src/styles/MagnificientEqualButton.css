@@ -1,0 +1,14 @@
+.c9k-eq-btn {
+    width: 45%;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(244, 255, 88);
+    font-size: 18px;
+    margin: 5px;
+    font-family: Consolas;
+}
+
+.c9k-eq-btn:hover {
+    cursor: pointer;
+}

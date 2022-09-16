@@ -1,0 +1,14 @@
+/* si le résultat est inférieur à 9000 */
+div.under-9k {
+    display: none;
+}
+
+/* si le résultat est supérieur à 9000 */
+div.over-9k {
+    display: block;
+    color: gold;
+    filter: drop-shadow(0 0 0.5em yellow);
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}

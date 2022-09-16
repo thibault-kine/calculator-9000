@@ -1,0 +1,15 @@
+.c9k-clear-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(126, 126, 126);
+    font-size: 18px;
+    margin: 5px;
+    font-family: Consolas;
+    color: white;
+}
+
+.c9k-clear-btn:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.c9k-op-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(255, 194, 103);
+    font-size: 18px;
+    margin: 5px;
+    font-family: Consolas;
+}
+
+.c9k-op-btn:hover {
+    cursor: pointer;
+}

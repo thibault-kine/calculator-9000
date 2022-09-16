@@ -1,0 +1,16 @@
+.c9k-save-btn {
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(85, 255, 43);
+    font-size: 18px;
+    margin: 5px;
+    font-family: Consolas;
+    text-align: center;
+}
+
+.c9k-save-btn:hover {
+    cursor: pointer;
+}
